@@ -1,2 +1,2 @@
-# employeemanager
-App to manage employees
+# petmanager
+App to manage pet
